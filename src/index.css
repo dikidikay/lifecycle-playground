@@ -23,7 +23,7 @@ h2 {
 /* Container Styling */
 .container {
   text-align: center;
-  width: 350px;
+  max-width: 350px;
   margin: 10px;
 }
 
