@@ -15,6 +15,10 @@ The same behavior is implemented in two ways:
 
 The class component version is done first because class lifecycle methods map directly to each phase, giving a clearer mental model before translating the same concepts into hooks.
 
+## 🌐 Live Demo
+
+**➡️ [View Live App](https://dikidikay-lifecycle-playground.netlify.app/)**
+
 ## Getting Started
 
 ```bash
